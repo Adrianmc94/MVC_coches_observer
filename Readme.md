@@ -8,10 +8,13 @@
 ![image](https://github.com/user-attachments/assets/09c4bd6b-b542-4c8b-891f-2f49b7933a5f)
 En el primer test podemos comprobar si el modelo y la matricula cumplen con coche.modelo y coche.matricula
 ## Segundo test:
+![image](https://github.com/user-attachments/assets/0ceaa094-552f-4d72-b684-ba0191a50ebf)
+
 
 
 
 ## Tercer test:
+![image](https://github.com/user-attachments/assets/d579f276-a31b-4038-9a6c-cb91cd6bba72)
 
 
 
