@@ -19,7 +19,7 @@ Aqui confirmamos que el metodo de **cambiar la velocidad** funciona correctament
 
 
 ## Merge de pre-observer en la main:
-Abrimos un issue diciendo si podemos mezclar la rama pre-observer con la main, simplemente desde pre-observer subimos un commit de que todo esta listo y creamos un nuevo pr, indicamos que ** base: main** y **compare: pre-pbserver** para que no haya conflictos y podemos hacer el merge.
+Abrimos un issue diciendo si podemos mezclar la rama pre-observer con la main, simplemente desde pre-observer subimos un commit de que todo esta listo y creamos un nuevo pr, indicamos que **base: main** y **compare: pre-pbserver** para que no haya conflictos y podemos hacer el merge.
 Lo hacemos y cerramos el pr con **Closes #7** para cerrar automaticamente el issue que creamos al principio!
 
 
