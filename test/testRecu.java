@@ -40,10 +40,7 @@ public class testRecu {
             assertEquals(100, nuevaVelocidad);
             assertEquals(100, Model.getVelocidad("GHI789"));
         }
-
-
     }
-
 }
 
 
