@@ -23,6 +23,9 @@ Abrimos un issue diciendo si podemos mezclar la rama pre-observer con la main, s
 Lo hacemos y cerramos el pr con **Closes #7** para cerrar automaticamente el issue que creamos al principio!
 
 
+## Creacion de una nueva release con una nueva etiqueta:
+Para crear una nueva etiqueta primero desde Intellij hice el siguiente comando:
+
 
 
 
