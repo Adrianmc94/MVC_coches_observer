@@ -5,6 +5,9 @@
 2. Lo siguiente es hacer los test unitarios correspondientes al codigo de MVC y por cada uno un issue y cerrarlo con su pr correspondiente:
 
 ### Primer test:
+![image](https://github.com/user-attachments/assets/09c4bd6b-b542-4c8b-891f-2f49b7933a5f)
+
+
 
 
 
