@@ -8,7 +8,7 @@ import java.util.ArrayList;
  */
 public class Model {
     // array de coches
-    static ArrayList<Coche> parking = new ArrayList<>();
+    public static ArrayList<Coche> parking = new ArrayList<>();
 
     /**
      * Notifica a los observadores
@@ -71,7 +71,7 @@ public class Model {
      * @param matricula identificador del coche
      * @return velocidad del coche actual
      */
-    public Integer getVelocidad(String matricula) {
+    public static Integer getVelocidad(String matricula) {
         return getCoche(matricula).velocidad;
     }
 }
