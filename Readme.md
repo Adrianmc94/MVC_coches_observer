@@ -6,7 +6,12 @@
 
 ### Primer test:
 ![image](https://github.com/user-attachments/assets/09c4bd6b-b542-4c8b-891f-2f49b7933a5f)
+En el primer test podemos comprobar si el modelo y la matricula cumplen con coche.modelo y coche.matricula
+## Segundo test:
 
+
+
+## Tercer test:
 
 
 
