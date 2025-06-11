@@ -25,3 +25,19 @@ public class testRecu {
             assertEquals(0, coche.velocidad);
         }
 
+        @Test
+        void testGetCoche() {
+            Model.crearCoche("Alpine", "DEF456");
+            Coche coche = Model.getCoche("DEF456");
+            assertNotNull(coche);
+            assertEquals("Alpine", coche.modelo);
+        }
+
+
+    }
+
+}
+
+
+
+
