@@ -33,6 +33,14 @@ public class testRecu {
             assertEquals("Alpine", coche.modelo);
         }
 
+        @Test
+        void testCambiarVelocidad() {
+            Model.crearCoche("Aston Martin", "GHI789");
+            int nuevaVelocidad = Model.cambiarVelocidad("GHI789", 100);
+            assertEquals(100, nuevaVelocidad);
+            assertEquals(100, Model.getVelocidad("GHI789"));
+        }
+
 
     }
 
