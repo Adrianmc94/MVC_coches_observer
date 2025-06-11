@@ -25,6 +25,8 @@ Lo hacemos y cerramos el pr con **Closes #7** para cerrar automaticamente el iss
 
 ## Creacion de una nueva release con una nueva etiqueta:
 Para crear una nueva etiqueta primero desde Intellij hice el siguiente comando:
+![image](https://github.com/user-attachments/assets/93f2a739-61d0-462a-99e0-be05a073243c)
+
 
 
 
